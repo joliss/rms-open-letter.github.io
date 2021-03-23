@@ -75,6 +75,7 @@ Signed,
 - Daniel Stone (freedesktop.org, Wayland)
 - Sydney Schreckengost
 - Jonathan McDowell
+- Jo Liss
 - Markus Unterwaditzer
 - Joy Scharmen
 - Peter Hunt
